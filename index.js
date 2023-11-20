@@ -69,6 +69,33 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions).then((answers) => {
     const readmeContent = generateReadme(answers); // Use a function to generate README content
+    function generateReadme(data) {
+      return `
+    # ${data.title}
+    
+    ## Description
+    ${data.description}
+    
+    ## Installation
+    ${data.installation}
+    
+    ## Usage
+    ${data.usage}
+    
+    ## License
+    This project is licensed under the ${data.license} license.
+    
+    ## Contributing
+    ${data.contributing}
+    
+    ## Tests
+    ${data.tests}
+    
+    ## Questions
+    For questions about the project, contact [${data.author}](https://github.com/${data.github}) via email: ${data.email}.
+    `;
+    }
+    
     writeToFile('README.md', readmeContent); // Provide the filename and content to write
   });
 }
