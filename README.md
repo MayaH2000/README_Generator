@@ -25,12 +25,12 @@ Clone the Repository:
 
 bash
 Copy code
-git clone <repository_URL>
+git clone <git@github.com:MayaH2000/README_Generator.git>
 Navigate to the Project Directory:
 
 bash
 Copy code
-cd <project_directory>
+cd <README_Generator>
 Install Dependencies:
 
 bash
