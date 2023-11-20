@@ -11,3 +11,5 @@ README_Generator solves the challenge of creating well-organized and consistent 
 ## Learning Outcome
 During the development of README_Generator, several key lessons were learned. These included a deeper understanding of file manipulation in JavaScript, the importance of user input validation for generating templates, and the significance of clear and structured documentation in facilitating project adoption.
 
+# Walkthrough Link
+https://drive.google.com/file/d/1VQxLfYojOx9u_hLoUsANkvdS7cGqSAqf/view?pli=1
