@@ -11,6 +11,12 @@ README_Generator solves the challenge of creating well-organized and consistent 
 ## Learning Outcome
 During the development of README_Generator, several key lessons were learned. These included a deeper understanding of file manipulation in JavaScript, the importance of user input validation for generating templates, and the significance of clear and structured documentation in facilitating project adoption.
 
+
+- [Installation](#installation)
+- [License](#license)
+- [Walkthrough Link](#WalkthroughLink)
+- [Credits](#credits)
+
 # Installation
 ## Prerequisites:
 Ensure you have Node.js and npm installed on your machine.
@@ -77,9 +83,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-# Walkthrough Link
-https://drive.google.com/file/d/1VQxLfYojOx9u_hLoUsANkvdS7cGqSAqf/view?pli=1
+## Walkthrough Link
+# https://drive.google.com/file/d/1VQxLfYojOx9u_hLoUsANkvdS7cGqSAqf/view?pli=1
 
-# Screenshot of Application
+## Screenshot of Application
 <img width="1470" alt="Screenshot 2023-11-19 at 8 17 42 PM" src="https://github.com/MayaH2000/README_Generator/assets/101356128/0e5f6b01-6d99-4dd0-92dc-80a99410ca09">
+
+## Credits
+# This project was initiated with starter code obtained from the KU Full Stack Coding Bootcamp. I've substantially refactored and modified the original codebase to develop the current application you see today, the README_Generator.
+
+
 
