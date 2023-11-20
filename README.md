@@ -11,5 +11,75 @@ README_Generator solves the challenge of creating well-organized and consistent 
 ## Learning Outcome
 During the development of README_Generator, several key lessons were learned. These included a deeper understanding of file manipulation in JavaScript, the importance of user input validation for generating templates, and the significance of clear and structured documentation in facilitating project adoption.
 
+# Installation
+## Prerequisites:
+Ensure you have Node.js and npm installed on your machine.
+Steps:
+Clone the Repository:
+
+bash
+Copy code
+git clone <repository_URL>
+Navigate to the Project Directory:
+
+bash
+Copy code
+cd <project_directory>
+Install Dependencies:
+
+bash
+Copy code
+npm install
+Run the Application:
+
+bash
+Copy code
+node index.js
+Answer the Questions:
+
+Follow the prompts in the command line interface.
+Answer questions about your project (title, description, installation, usage, etc.) as prompted.
+Generate the README:
+
+Once you've answered all the questions, the application will generate a README.md file based on your input.
+Find the Generated README:
+
+You'll find the generated README.md in the project's root directory.
+Review and Customize (if necessary):
+
+Open the generated README.md file to review the content.
+Make any additional modifications or customizations to suit your needs.
+Use the README:
+
+Your generated README can now be used to document your project on GitHub or other platforms.
+
+## License
+# MIT License
+
+Copyright (c) 2023 Maya Hernandez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
 # Walkthrough Link
 https://drive.google.com/file/d/1VQxLfYojOx9u_hLoUsANkvdS7cGqSAqf/view?pli=1
+
+# Screenshot of Application
+<img width="1470" alt="Screenshot 2023-11-19 at 8 17 42 PM" src="https://github.com/MayaH2000/README_Generator/assets/101356128/0e5f6b01-6d99-4dd0-92dc-80a99410ca09">
+
